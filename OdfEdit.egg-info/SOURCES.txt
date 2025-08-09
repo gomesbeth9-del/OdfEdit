@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+OdfEdit.egg-info/PKG-INFO
+OdfEdit.egg-info/SOURCES.txt
+OdfEdit.egg-info/dependency_links.txt
+OdfEdit.egg-info/requires.txt
+OdfEdit.egg-info/top_level.txt
+src/OdfEdit.py
+src/OdfEdit_linux.py
+src/OdfEdit_windows.py
+src/myint.py
+tests/test_OdfEdit_linux.py
+tests/test_OdfEdit_linux_pytest.py

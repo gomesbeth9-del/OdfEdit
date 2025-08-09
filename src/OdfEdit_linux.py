@@ -242,7 +242,7 @@ import re
 import math
 import sys
 import time
-import myint
+from myint import myint, mystr, myfloat, myfloat2str, path2ospath
 
 ##import traceback  # call traceback.print_stack(limit=5) in a function to print in the Python console the stack of last 5 calls to this function
 
